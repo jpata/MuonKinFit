@@ -1,0 +1,6 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="RecoVertex/KinematicFit"/>
+<use name="MagneticField/ParametrizedEngine"/>
+<flags EDM_PLUGIN="1"/>
